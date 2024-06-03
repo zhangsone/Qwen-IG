@@ -101,7 +101,7 @@ Baichuan2:
     answer:"The basic characteristics of a processor include clock speed, number of cores, performance and power consumption."
 }
 
-Qwen-QA:
+Qwen-IG:
 {
     question:"How do you distinguish between the two types of computer processors?"
     answer:"The difference between the two types of computer processors can be determined by analyzing different characteristics such as clock speed, number of cores, performance, power consumption, and so on. In addition, you can compare the processor to other processors of the same type to determine the differences between them."
