@@ -6,7 +6,7 @@
  * @FilePath: \undefinede:\五科\论文相关\datasets\Readme.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
-# Qwen-QA: A Qwen-based Question Answering Generation Model for Instruction Tuning
+# Qwen-IG: A Qwen-based Instruction Generation Model for LLM Fine-tuning
 
 All data sets will be open sourced after the paper is accepted.
 
